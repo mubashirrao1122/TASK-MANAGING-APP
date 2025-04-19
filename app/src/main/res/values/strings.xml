@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Task Manager</string>
+    <string name="welcome_message">Welcome to your Task Manager!</string>
+    <string name="add_task">Add Task</string>
+    <string name="task_list">Task List</string>
+    <string name="task_detail">Task Detail</string>
+    <string name="task_title">Task Title</string>
+    <string name="task_description">Task Description</string>
+    <string name="task_date">Task Date</string>
+    <string name="task_priority">Task Priority</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="no_tasks">No tasks available.</string>
+    <string name="notification_channel_name">Task Notifications</string>
+    <string name="notification_channel_description">Channel for task reminders</string>
+    <string name="task_added">Task added successfully!</string>
+    <string name="task_updated">Task updated successfully!</string>
+    <string name="task_deleted">Task deleted successfully!</string>
+    <string name="error_occurred">An error occurred. Please try again.</string>
+    <string name="enable_notifications">Enable Notifications</string>
+    <string name="notifications_enabled">Notifications Enabled</string>
+    <string name="notifications_disabled">Notifications Disabled</string>
+</resources>
